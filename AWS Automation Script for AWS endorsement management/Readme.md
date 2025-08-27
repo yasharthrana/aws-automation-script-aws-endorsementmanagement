@@ -13,7 +13,7 @@ This provides features like :
 
 ### RDS : 
 
-1. delete RDS Instanc
+1. delete RDS Instance
 2. Delete RDS Cluster
 3. Stop any useless Running RDS Cluster/Instance
 4. Delete useless Snapshots 
