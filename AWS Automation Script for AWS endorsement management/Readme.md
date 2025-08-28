@@ -2,7 +2,7 @@
 
 This python script can be used to manage a AWS endorsement.
 
-This provides features lik :
+This provides features like :
 
 ### EC2 :
 
